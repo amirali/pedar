@@ -1,2 +1,2 @@
 def main():
-    print("Your Fauther.")
+    print("Your Father.")

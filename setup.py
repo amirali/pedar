@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pedar',
-    version='0.0.1',
+    version='0.0.2',
     description='',
     author='Amirali Esfandiari',
     author_email='amiralinull@gmail.com',
